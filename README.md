@@ -22,7 +22,7 @@ The PDF Merging Script is a simple Python utility that allows you to merge multi
 
 4. Run the script from the command line, providing the input PDF file names you want to merge and the output PDF file name as arguments (last file name will be the output file name):
    ```bash
-   python pdf-merger.py input1.pdf input2.pdf input3.pdf output.pdf
+   python3 pdf-merger.py input1.pdf input2.pdf input3.pdf output.pdf
    ```
 
    - Replace `input1.pdf`, `input2.pdf`, and `input3.pdf` with the PDF files you want to merge.
